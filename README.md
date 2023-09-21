@@ -26,7 +26,7 @@ Download link: https://www.kaggle.com/puxama/bostoncsv
 2. matplotlib
 3. seaborn
 4. scikit-learn
-5. Algorithms
+## Algorithms
 6. Linear Regression
 7. Decision Tree
 8. Random Forest
