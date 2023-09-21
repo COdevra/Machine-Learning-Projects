@@ -1,9 +1,9 @@
-Boston Housing Prediction Analysis - Regression
+## Boston Housing Prediction Analysis - Regression
 
-Dataset Information
+## Dataset Information
 Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 attributes or features for homes from various suburbs in Boston.
 
-Boston Housing Dataset Attribute Information (in order):
+## Boston Housing Dataset Attribute Information (in order):
         - CRIM     per capita crime rate by town
         - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
         - INDUS    proportion of non-retail business acres per town
@@ -18,17 +18,18 @@ Boston Housing Dataset Attribute Information (in order):
         - B        1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
         - LSTAT    % lower status of the population
         - MEDV     Median value of owner-occupied homes in $1000's
+        
 Download link: https://www.kaggle.com/puxama/bostoncsv
 
-Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
-Algorithms
-Linear Regression
-Decision Tree
-Random Forest
-Extra Tress
-XGBoost
-Mean Squared Error: 10.0
+## Libraries
+1.pandas
+2.matplotlib
+3.seaborn
+4.scikit-learn
+5.Algorithms
+6.Linear Regression
+7.Decision Tree
+8.Random Forest
+9.Extra Tress
+10.XGBoost
+# Mean Squared Error: 10.0
